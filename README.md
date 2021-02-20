@@ -1,6 +1,6 @@
 # 40ServantsBot for Discord
 
-40ServantsBot is a divination Discord bot (for fun, not actual fortune telling). You send it the command '+card' and it returns a card. The cards are from Tommie Kelly's Forty Servants deck.
+40ServantsBot is a divination Discord bot (for fun, not actual fortune telling). You send it the command '+40Scard' and it returns a card. The cards are from Tommie Kelly's Forty Servants deck.
 
 ## Setup
 
