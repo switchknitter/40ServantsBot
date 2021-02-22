@@ -24,7 +24,7 @@ Tommie Kelly was nice enough to allow me to use his deck for this. If you like t
 
 ## Support
 
-[Report an issue](https://github.com/switchknitter/) if you have problems.
+[Report an issue](https://github.com/nonbinarycoding/) if you have problems.
 
 ## License
 
