@@ -24,10 +24,8 @@ Tommie Kelly was nice enough to allow me to use his deck for this. If you like t
 
 ## Support
 
-[Report an issue](https://github.com/nonbinarycoding/) if you have problems.
+[Report an issue](https://github.com/switchknitter/) if you have problems.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Copyright
 
 Artwork and card descriptions are copyright Tommie Kelly and cannot be used without his permission.
