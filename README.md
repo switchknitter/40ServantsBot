@@ -11,7 +11,7 @@ If you want to invite 40ServantsBot to your existing server, just point your bro
 In the Discord server running 40ServantsBot, type:
 
 ```
-+40Scard
++40s
 ```
 
 A random card's image and meaning will be returned to the channel, along with a link for more card details.
