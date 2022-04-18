@@ -4,7 +4,7 @@
 
 ## Setup
 
-If you want to invite 40ServantsBot to your existing server, just point your browser at https://discord.com/oauth2/authorize?client_id=812696812136955934&scope=bot .
+If you want to invite 40ServantsBot to your existing server, just point your browser at https://discord.com/oauth2/authorize?client_id=812696812136955934&scope=bot&permissions=2147503104 .
 
 ## Usage
 
